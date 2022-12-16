@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Kian
-- 👀 I’m interested in nature and sports
-- 🌱 I’m currently learning some web dev
-- 💞️ I’m looking to collaborate on anything basicly 
+- 👋 Hi, I’m Kian, a Computer Science student from Tampere University.
+- 🌱 I’m currently learning some web development
 - 📫 How to reach me: @ko1ra on Telegram
 
 <!---
