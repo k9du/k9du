@@ -1,5 +1,5 @@
 ## welcome ^_^
-- 🥷🏻 I'm a CS student from <a href="https://www.tuni.fi">Tampere University</a>
+- 💻 I'm a CS student from <a href="https://www.tuni.fi">Tampere University</a>
 - 🌐 I’m currently learning some Java and web development on the side
 - 📬 How to reach me: <a href="https://t.me/ko1ra">Telegram </a>
 
