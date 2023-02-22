@@ -1,6 +1,6 @@
-## welcome ^_^
+## Welcome ^_^
 - 💻 I'm a CS student from <a href="https://www.tuni.fi">Tampere University</a>
-- 🌐 I’m currently learning some Java and web development on the side
+- 🌐 I’m currently learning some Java ☕
 - 📬 How to reach me: <a href="https://t.me/ko1ra">Telegram </a>
 
 <!---
@@ -12,18 +12,17 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k9du&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/Testaustime/github-readme-testaustime">
-  <img src="https://github-readme-testaustime.vercel.app/api/testaustime?username=kidu&theme=gruvbox&layout=compact&range=7&langs_count=10" />
-</a>
+<img width="45%" src="https://github-readme-testaustime.vercel.app/api/testaustime?username=kidu&theme=gruvbox&layout=compact&range=30&langs_count=10&custom_title=Testaustime+Stats+(past+month)"/>
 
 ***
+
 ### Languages
 | Language        | Proficiency       |
 | :-------------: |:-------------:|
-| 🇫🇮     | Native |
-| 🇬🇧    | Native |
-| 🇸🇪 | Low |
-| 🇩🇪 | Low |
+| Finnish  🇫🇮  | Native |
+| English 🇬🇧  | Native |
+| Swedish 🇸🇪 | Low |
+| German 🇩🇪 | Low |
 
 
 ***
