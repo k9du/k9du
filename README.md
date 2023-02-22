@@ -10,9 +10,12 @@ You can click the Preview link to take a look at your changes.
 ***
 ### Unnecessary stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k9du&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-<img width="45%" src="https://github-readme-testaustime.vercel.app/api/testaustime?username=kidu&theme=gruvbox&layout=compact&range=30&langs_count=10&custom_title=Testaustime+Stats+(past+month)"/>
+<img align="right" width="45%" src="https://github-readme-testaustime.vercel.app/api/testaustime?username=kidu&theme=gruvbox&layout=compact&range=30&langs_count=10&custom_title=Testaustime+Stats+(past+month)"/>
+  
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k9du&layout=compact&theme=gruvbox)
+
 
 ***
 
