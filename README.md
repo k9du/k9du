@@ -1,7 +1,7 @@
 ## Welcome ^_^
 - 💻 I'm a CS student from <a href="https://www.tuni.fi">Tampere University</a>
 - 🌐 I’m currently learning some Java ☕
-- 📬 How to reach me: <a href="https://t.me/ko1ra">Telegram </a> or kidu#9658 on Discord
+- 📬 How to reach me: <a href="https://t.me/ko1ra">Telegram </a> or kidu on Discord
 
 <!---
 k9du/k9du is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
