@@ -1,6 +1,6 @@
 ## Welcome ^_^
 - 💻 I'm a CS student at <a href="https://www.tuni.fi">Tampere University</a>
-- 🌐 I’m currently learning some Java ☕
+- 🌐 I’m currently learning some pyspark
 - 📬 How to reach me: <a href="https://t.me/ko1ra">Telegram </a> or kidu on Discord
 
 <!---
